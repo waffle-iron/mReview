@@ -6,4 +6,4 @@ TBA
 	- NlTk
 	- numpy
 	- Scipy
-  - Sklearn
+  	- Sklearn
