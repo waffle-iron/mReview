@@ -2,8 +2,8 @@
 TBA
 
 
-##Dependencies 
-  - NLTK
-  - Numpy
-  - Scipy
+##Dependencies
+	- NlTk
+	- numpy
+	- Scipy
   - Sklearn
